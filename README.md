@@ -1,0 +1,2 @@
+# angulartest
+angular script test
